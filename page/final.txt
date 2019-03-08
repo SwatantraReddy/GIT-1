@@ -1,5 +1,0 @@
-
-
-		*/ This is basically a text file/*
-		*/ Next we are going to change this into a .html file/*
-		*/ Coding starts here, with in a week you will be master/*

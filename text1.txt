@@ -1,4 +1,6 @@
 
+*/This is just a sample message/*
+/ This also can be a messgae/
 <<<<<<< HEAD
 <<<<<<< HEAD
 1.text1 file 
