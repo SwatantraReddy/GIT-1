@@ -1,6 +1,10 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1.text1 file 
 =======
 1. text1.file was the 3rd file added to the repository.
+>>>>>>> br1
+=======
+1. text1.file was the 3rd file added to the repository for the first time.
 >>>>>>> br1

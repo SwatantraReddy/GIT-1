@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. This document is for the practice purpose only.
 
 	*/ edited on 23-02-2019/*
+=======
+1. This text document is for the practice purpose.
+
+*/ added a new branch br2/*
+>>>>>>> br1
